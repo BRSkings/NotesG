@@ -1,2 +1,1 @@
-# NotesG
-Plugin for Godot engine. Help you use your own code
+NotesG is a Notes- is Code-Snippet-Plugin for Godot 4.
